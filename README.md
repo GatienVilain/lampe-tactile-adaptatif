@@ -2,7 +2,7 @@
 
 Dans le cadre d'un projet d'électronique de première année d'école d'ingénieurs à **Junia ISEN Lille**, il nous a été demandé de concevoir le circuit d'une source lumineuse s'adaptant à l'éclairage ambiant et comprenant plusieurs modes d'éclairage actionné par un bouton tactile.
 
-<!-- insérer la vidéo du système fonctionnel -->
+[![système complet de la lampe tactile à éclairage adaptatif](./presentation/systeme-complet.png)](./presentation/systeme-complet.mp4)
 
 ## Fonctionnalités
 
