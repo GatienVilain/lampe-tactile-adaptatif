@@ -2,6 +2,7 @@
 [license-image]: https://img.shields.io/badge/license-MPL%20v2.0-blue.svg
 [releases-url]: https://github.com/GatienVilain/lampe-tactile-adaptatif/releases "Ouvre la page des versions du projet"
 [issues-url]: https://github.com/GatienVilain/lampe-tactile-adaptatif/issues "Ouvre la page des problèmes rencontrés"
+[auteur-dorian-url]: https://github.com/DorianLarouziere "Ouvre la page GitHub de Dorian Larouziere"
 [auteur-gatien-url]: https://github.com/GatienVilain "Ouvre la page GitHub de Gatien Vilain"
 
 [presentation-image-url]: ./presentation/systeme-complet.png
@@ -49,4 +50,4 @@ Bien que ce projet ne soit plus actif, nous essayerons d'y jeter un coup d'oeil.
 
 ## Auteurs
 
-Le projet a été réalisé par Dorian LAROUZIERE et [Gatien VILAIN][auteur-gatien-url]
+Le projet a été réalisé par [Dorian LAROUZIERE][auteur-dorian-url] et [Gatien VILAIN][auteur-gatien-url]
